@@ -1,2 +1,2 @@
 # Altheaprototype
- 
+ This program was for a proof of concept for Althea, as the name suggests. In it, I demonstrated the player being able to take objects, Mediums being able to take said objects, then give the player an ability upon getting a certain number of them. I also demonstrated "blooming" as the ability, which, in this case, makes flowers swap out meshes if the player comes within range and has a boolean checked.
